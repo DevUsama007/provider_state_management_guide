@@ -18,7 +18,7 @@ A Flutter project demonstrating Provider for state management following the MVVM
 
   * State handling (Loading, Success, Error)
 
-✅** Project Structure**
+✅**Project Structure**
 
   * Clean separation of View, ViewModel, and Model
 
@@ -26,7 +26,7 @@ A Flutter project demonstrating Provider for state management following the MVVM
 
   * Best practices for scalable Flutter apps
 
-📌** Key Features**
+📌**Key Features**
   * Simple & advanced Provider examples
 
   * API integration with error handling
@@ -35,14 +35,14 @@ A Flutter project demonstrating Provider for state management following the MVVM
   
   * Easy-to-follow MVVM architecture
 
-🚀** Who Is This For?**
+🚀**Who Is This For?**
   * Flutter developers learning Provider
 
   * Developers transitioning to MVVM
 
   * Anyone looking for a clean state management approach
 
-🔧** Setup**
+🔧**Setup**
   * Clone the repo
 
   * Run flutter pub get
@@ -51,5 +51,5 @@ A Flutter project demonstrating Provider for state management following the MVVM
 
   * Contributions & feedback are welcome!
 
-✨** Why This Project?**
+✨**Why This Project?**
   This project avoids overcomplicating state management and focuses on real-world usage of Provider + MVVM, making it beginner-friendly yet scalable for production apps.
