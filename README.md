@@ -1,4 +1,7 @@
 # **Provider State Management with MVVM Architecture**
+![Flutter](https://img.shields.io/badge/Flutter-3.19-blue?logo=flutter)
+![GetX](https://img.shields.io/badge/State_Management-GetX-red)
+![License](https://img.shields.io/badge/License-MIT-orange)
 
 A Flutter project demonstrating Provider for state management following the MVVM (Model-View-ViewModel) pattern. This repository includes practical examples to help you understand:
 
